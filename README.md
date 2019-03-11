@@ -1,5 +1,7 @@
 # Typechecker Example #
 
+Note: using JDK 11
+
 Code written in class related to typechecking.
 
 There is no lexing or parsing code in this respository; this is strictly for typechecking.
